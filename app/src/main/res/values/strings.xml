@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">Paints</string>
+
+    <string name="product_name_cat">Name</string>
+
+    <string name="product_name">    Enter the product name</string>
+
+    <string name="product_quantity_cat">Quantity</string>
+
+    <string name="product_quantity">Product Quantity</string>
+
+    <string name="product_cost_cat">Cost</string>
+
+    <string name="product_cost">Enter cost of product</string>
+
+    <string name="error_saving_product">Error occurred saving the Product</string>
+
+    <string name="success_saving_product">Added Successfully</string>
+
+    <string name="insert_new">Add new Product</string>
+
+    <string name="delete_all">Delete all Products</string>
+
+    <string name="delete_one">Delete</string>
+
+    <string name="save_paint">Save Paint</string>
+
+    <string name="item_deleted">Deleted</string>
+
+    <string name="add_new_paint">Add new Product</string>
+
+    <string name="edit_existing_product">Edit Product</string>
+
+    <string name="unsaved_changes_dialog_msg">Discard your changes and quit editing?</string>
+
+    <string name="discard">Discard</string>
+
+    <string name="keep_editing">Keep Editing</string>
+
+    <string name="delete_all_question">All the products in the Inventory will be Deleted, Proceed?</string>
+
+    <string name="delete_yes">Yes</string>
+
+    <string name="delete_no">No</string>
+
+    <string name="menu_insert_new">Insert New Product</string>
+
+    <string name="menu_sales">Sales so far</string>
+
+    <string name="menu_contact_me">Contact me</string>
+
+    <string name="nav_open">Open</string>
+
+    <string name="nav_close">Close</string>
+    <string name="product">Product</string>
+    <string name="sold_product_name">Sold product name</string>
+    <string name="add_new_sale">Add new sale</string>
+    <string name="clear_all_sales">Clear all Sales</string>
+    <string name="delete_all_sales">Sure you want to clear all the Sales?</string>
+    <string name="ily3k">I &#x1F5A4; Y 3K</string>
+
+
+</resources>
