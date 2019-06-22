@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/inventory"
+            android:icon="@drawable/ic_inventory"
+            android:title="Inventory"/>
+
+        <item
+            android:id="@+id/menu_insert_new"
+            android:icon="@drawable/ic_add_new_product"
+            android:title="@string/menu_insert_new" />
+        <item
+            android:id="@+id/menu_sales"
+            android:icon="@drawable/ic_sales_so_far"
+            android:title="@string/menu_sales" />
+        <item
+            android:id="@+id/add_a_sale"
+            android:title="Make a sale"
+            android:icon="@drawable/ic_make_a_sale"/>
+        <item
+            android:id="@+id/menu_contact_me"
+            android:icon="@drawable/ic_contact"
+            android:title="@string/menu_contact_me" />
+    </group>
+
+</menu>
